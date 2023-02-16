@@ -43,7 +43,7 @@ DJANGO_APPS = (
 )
 
 THIRD_APPS = (
-    # 'jazzmin',
+    'django_extensions',
 )
 
 LOCAL_APPS = (
